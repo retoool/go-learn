@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"imooc.com/ccmouse/learngo/tree"
+	"github.com/retoool/go-learn/tree"
 )
 
 type myTreeNode struct {

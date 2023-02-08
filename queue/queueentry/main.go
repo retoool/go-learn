@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"imooc.com/ccmouse/learngo/queue"
+
+	"github.com/retoool/go-learn/queue"
 )
 
 func main() {
